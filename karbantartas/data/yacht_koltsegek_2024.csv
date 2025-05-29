@@ -1,0 +1,234 @@
+id;yachtname;datum;kategoria;osszeg;megjegyzes
+1;PLVS VLTRA;2024-01-13;Insurance;4512,00;Urgent
+2;PLANET NINE;2024-02-22;Other;1924,00;Major refit
+3;JAGUAR;2024-01-17;Maintenance;2035,00;Urgent
+4;ADAMAS V;2024-09-15;Other;934,00;Major refit
+5;ICE;2024-11-28;Other;7373,00;Urgent
+7;PROJECT MASTER;2024-12-23;Docking Fees;6074,00;Annual check
+9;CARPE DIEM;2024-02-19;Insurance;14385,00;Annual check
+11;CARPE DIEM;2024-02-10;Other;5303,00;Major refit
+13;SILVER EDGE;2024-12-04;Repairs;13165,00;Annual check
+14;ENERGY;2024-04-29;Maintenance;6727,00;Annual check
+15;OLYMPUS;2024-11-21;Insurance;3164,00;Annual check
+17;PROJECT MASTER;2024-09-30;Repairs;3177,00;Minor repair
+18;CARPE DIEM;2024-05-18;Other;4098,00;Annual check
+19;SILVER EDGE;2024-04-27;Maintenance;13689,00;Annual check
+20;CARPE DIEM;2024-05-17;Maintenance;3956,00;Major refit
+21;QUEEN MAVIA;2024-04-18;Docking Fees;6982,00;Minor repair
+22;PLANET NINE;2024-05-15;Repairs;4540,00;Major refit
+23;VIRTUS XP NB110 HULL 02;2024-05-14;Other;7519,00;Major refit
+24;CARPE DIEM;2024-07-04;Repairs;2766,00;Major refit
+26;PLANET NINE;2024-11-17;Repairs;13477,00;Minor repair
+27;ENERGY;2024-07-16;Docking Fees;10263,00;Minor repair
+29;PLVS VLTRA;2024-12-15;Other;12802,00;Annual check
+30;QUEEN MAVIA;2024-02-27;Insurance;7623,00;Urgent
+31;OLYMPUS;2024-01-02;Insurance;8701,00;Urgent
+32;HELIOS 3;2024-02-24;Insurance;14289,00;Major refit
+33;ICE;2024-03-19;Insurance;12992,00;Urgent
+34;VIRTUS XP NB110 HULL 02;2024-09-28;Maintenance;10313,00;Annual check
+35;MARIE;2024-01-10;Maintenance;6447,00;Annual check
+36;ADAMAS V;2024-01-30;Repairs;14885,00;Major refit
+38;VIRTUS XP NB110 HULL 02;2024-03-05;Repairs;11309,00;Minor repair
+39;VIRTUS XP NB110 HULL 02;2024-03-25;Insurance;9145,00;Major refit
+40;JAGUAR;2024-04-18;Other;12874,00;Urgent
+41;UTOPIA IV;2024-07-23;Insurance;7677,00;Major refit
+43;QUEEN MAVIA;2024-01-11;Other;9575,00;Urgent
+45;ADAMAS V;2024-02-04;Maintenance;14584,00;Annual check
+46;ENERGY;2024-09-20;Repairs;5062,00;Minor repair
+47;ICE;2024-10-03;Repairs;12351,00;Major refit
+48;MARIE;2024-05-04;Docking Fees;13730,00;Minor repair
+49;ICE;2024-02-18;Maintenance;11296,00;Minor repair
+51;PLVS VLTRA;2024-02-01;Docking Fees;12431,00;Annual check
+52;PLVS VLTRA;2024-05-07;Repairs;3616,00;Major refit
+53;OLYMPUS;2024-03-12;Docking Fees;3506,00;Annual check
+54;OLYMPUS;2024-05-07;Maintenance;7760,00;Major refit
+56;ENERGY;2024-05-01;Repairs;7158,00;Minor repair
+57;MARIE;2024-04-19;Docking Fees;1460,00;Urgent
+58;CARPE DIEM;2024-01-02;Docking Fees;4845,00;Minor repair
+59;UTOPIA IV;2024-08-04;Other;11344,00;Minor repair
+63;HELIOS 3;2024-02-11;Repairs;1622,00;Major refit
+65;ADAMAS V;2024-10-23;Other;1151,00;Major refit
+66;ENERGY;2024-08-02;Other;9760,00;Major refit
+67;QUEEN MAVIA;2024-05-13;Repairs;11472,00;Annual check
+68;ADAMAS V;2024-05-15;Docking Fees;2644,00;Annual check
+69;OLYMPUS;2024-06-10;Maintenance;652,00;Minor repair
+70;PLVS VLTRA;2024-02-07;Other;3992,00;Major refit
+72;ADAMAS V;2024-07-08;Insurance;3084,00;Minor repair
+73;VIRTUS XP NB110 HULL 02;2024-12-26;Insurance;10521,00;Major refit
+75;PLANET NINE;2024-05-15;Maintenance;2253,00;Major refit
+76;PLANET NINE;2024-05-19;Insurance;10409,00;Urgent
+77;QUEEN MAVIA;2024-04-14;Insurance;8780,00;Minor repair
+78;ATHOS;2024-01-27;Maintenance;10892,00;Minor repair
+79;ATHOS;2024-01-23;Maintenance;5964,00;Urgent
+80;ATHOS;2024-03-23;Docking Fees;9538,00;Minor repair
+81;VIRTUS XP NB110 HULL 02;2024-01-05;Maintenance;1732,00;Urgent
+82;VIRTUS XP NB110 HULL 02;2024-01-19;Insurance;10043,00;Major refit
+83;PLANET NINE;2024-08-08;Repairs;1185,00;Annual check
+84;PALOMA;2024-01-21;Insurance;3941,00;Urgent
+85;PLVS VLTRA;2024-06-30;Other;14985,00;Minor repair
+86;PLANET NINE;2024-05-01;Repairs;13605,00;Urgent
+87;JAGUAR;2024-01-13;Repairs;12567,00;Annual check
+88;JAGUAR;2024-12-08;Repairs;4871,00;Urgent
+89;PLVS VLTRA;2024-07-14;Maintenance;14567,00;Minor repair
+90;ADAMAS V;2024-04-12;Docking Fees;6228,00;Annual check
+91;ADAMAS V;2024-04-24;Maintenance;11313,00;Urgent
+93;ATHOS;2024-06-28;Other;7048,00;Major refit
+94;QUEEN MAVIA;2024-01-15;Maintenance;14869,00;Annual check
+96;JAGUAR;2024-06-25;Insurance;7649,00;Major refit
+97;HELIOS 3;2024-02-29;Docking Fees;9946,00;Urgent
+98;ATHOS;2024-01-23;Docking Fees;527,00;Major refit
+99;VIRTUS XP NB110 HULL 02;2024-12-17;Repairs;6467,00;Minor repair
+100;ENERGY;2024-12-06;Insurance;10709,00;Annual check
+101;PLVS VLTRA;2024-06-02;Other;5567,00;Minor repair
+102;QUEEN MAVIA;2024-07-25;Insurance;9583,00;Urgent
+103;ICE;2024-08-03;Docking Fees;11597,00;Urgent
+105;UTOPIA IV;2024-05-26;Repairs;7543,00;Major refit
+106;QUEEN MAVIA;2024-08-26;Docking Fees;7744,00;Urgent
+109;ADAMAS V;2024-12-10;Insurance;4180,00;Urgent
+110;PLANET NINE;2024-01-13;Maintenance;4511,00;Minor repair
+111;ENERGY;2024-08-21;Docking Fees;10818,00;Major refit
+112;ICE;2024-12-22;Docking Fees;8599,00;Minor repair
+114;JAGUAR;2024-04-22;Repairs;13674,00;Major refit
+116;OLYMPUS;2024-03-09;Docking Fees;11437,00;Major refit
+117;VIRTUS XP NB110 HULL 02;2024-10-31;Insurance;12874,00;Minor repair
+118;HELIOS 3;2024-08-06;Other;7805,00;Urgent
+119;MARIE;2024-08-18;Insurance;12817,00;Urgent
+120;ATHOS;2024-09-23;Docking Fees;10768,00;Urgent
+121;ATHOS;2024-08-13;Maintenance;12190,00;Annual check
+122;ADAMAS V;2024-05-19;Insurance;5738,00;Major refit
+123;ENERGY;2024-03-11;Repairs;4288,00;Minor repair
+124;PLANET NINE;2024-12-27;Repairs;1552,00;Minor repair
+125;JAGUAR;2024-06-18;Other;8133,00;Minor repair
+126;SILVER EDGE;2024-04-15;Docking Fees;6881,00;Major refit
+128;PALOMA;2024-06-01;Docking Fees;14482,00;Minor repair
+129;VIRTUS XP NB110 HULL 02;2024-10-06;Other;4113,00;Minor repair
+131;CARPE DIEM;2024-06-21;Docking Fees;12364,00;Urgent
+134;ENERGY;2024-11-25;Docking Fees;2723,00;Minor repair
+135;PROJECT MASTER;2024-01-26;Insurance;6711,00;Annual check
+136;ICE;2024-08-20;Insurance;6029,00;Minor repair
+138;MARIE;2024-01-10;Other;1353,00;Annual check
+142;ICE;2024-08-26;Insurance;13064,00;Annual check
+145;UTOPIA IV;2024-10-21;Docking Fees;6998,00;Urgent
+146;ENERGY;2024-10-30;Repairs;2169,00;Annual check
+147;PLVS VLTRA;2024-10-16;Maintenance;6188,00;Major refit
+148;JAGUAR;2024-12-04;Insurance;1629,00;Major refit
+149;QUEEN MAVIA;2024-01-07;Docking Fees;13973,00;Minor repair
+150;PLVS VLTRA;2024-08-09;Insurance;10913,00;Minor repair
+151;PLANET NINE;2024-08-10;Repairs;12522,00;Major refit
+152;ATHOS;2024-11-11;Other;13191,00;Minor repair
+153;OLYMPUS;2024-08-11;Other;4897,00;Annual check
+154;ADAMAS V;2024-02-14;Insurance;14944,00;Minor repair
+155;ADAMAS V;2024-08-25;Other;10499,00;Minor repair
+156;QUEEN MAVIA;2024-01-15;Docking Fees;14442,00;Annual check
+157;PROJECT MASTER;2024-09-06;Repairs;6313,00;Annual check
+158;QUEEN MAVIA;2024-05-23;Other;11988,00;Annual check
+160;ADAMAS V;2024-07-27;Docking Fees;9596,00;Urgent
+162;ENERGY;2024-05-30;Repairs;7125,00;Urgent
+163;UTOPIA IV;2024-12-05;Other;6546,00;Minor repair
+164;VIRTUS XP NB110 HULL 02;2024-09-28;Insurance;7471,00;Major refit
+165;QUEEN MAVIA;2024-06-29;Docking Fees;4938,00;Annual check
+166;ATHOS;2024-04-28;Maintenance;12317,00;Urgent
+167;QUEEN MAVIA;2024-03-02;Other;12987,00;Urgent
+168;ICE;2024-04-20;Docking Fees;5030,00;Major refit
+169;HELIOS 3;2024-11-01;Insurance;2147,00;Urgent
+170;UTOPIA IV;2024-04-26;Insurance;3439,00;Annual check
+171;O'PTASIA;2024-12-28;Other;2573,00;Annual check
+172;SILVER EDGE;2024-01-28;Other;5286,00;Urgent
+173;MARIE;2024-02-22;Maintenance;9905,00;Annual check
+174;MARIE;2024-09-02;Docking Fees;6082,00;Urgent
+178;ADAMAS V;2024-03-01;Other;13024,00;Minor repair
+179;ADAMAS V;2024-09-24;Docking Fees;7881,00;Minor repair
+180;UTOPIA IV;2024-10-28;Docking Fees;5503,00;Major refit
+181;SILVER EDGE;2024-11-08;Maintenance;12996,00;Urgent
+182;ICE;2024-05-15;Maintenance;3073,00;Urgent
+184;JAGUAR;2024-08-18;Other;8199,00;Annual check
+185;SILVER EDGE;2024-04-28;Insurance;12082,00;Annual check
+186;OLYMPUS;2024-02-06;Repairs;4834,00;Major refit
+187;ICE;2024-08-05;Maintenance;9422,00;Urgent
+189;PROJECT MASTER;2024-06-06;Other;12770,00;Major refit
+190;UTOPIA IV;2024-08-12;Maintenance;8179,00;Annual check
+191;CARPE DIEM;2024-05-19;Other;9347,00;Minor repair
+192;OLYMPUS;2024-02-11;Other;1153,00;Minor repair
+195;ATHOS;2024-10-22;Maintenance;13002,00;Urgent
+196;MARIE;2024-09-22;Docking Fees;5057,00;Urgent
+197;JAGUAR;2024-11-21;Docking Fees;1994,00;Minor repair
+199;PROJECT MASTER;2024-06-17;Docking Fees;11865,00;Minor repair
+200;UTOPIA IV;2024-12-05;Docking Fees;13829,00;Major refit
+201;SILVER EDGE;2024-08-20;Maintenance;5653,00;Annual check
+202;QUEEN MAVIA;2024-02-29;Docking Fees;14670,00;Major refit
+203;O'PTASIA;2024-12-02;Other;8069,00;Minor repair
+204;SILVER EDGE;2024-04-06;Other;6427,00;Major refit
+206;ICE;2024-05-16;Other;2646,00;Annual check
+208;ADAMAS V;2024-12-29;Repairs;5591,00;Major refit
+209;O'PTASIA;2024-10-09;Docking Fees;2027,00;Urgent
+210;PLVS VLTRA;2024-08-24;Maintenance;11112,00;Urgent
+211;MARIE;2024-05-29;Other;12057,00;Annual check
+212;JAGUAR;2024-09-04;Docking Fees;4493,00;Minor repair
+213;VIRTUS XP NB110 HULL 02;2024-03-15;Docking Fees;3622,00;Major refit
+214;HELIOS 3;2024-03-10;Maintenance;5026,00;Minor repair
+216;UTOPIA IV;2024-06-01;Other;10001,00;Minor repair
+217;PLANET NINE;2024-08-16;Other;8435,00;Annual check
+218;QUEEN MAVIA;2024-10-09;Other;6680,00;Minor repair
+219;QUEEN MAVIA;2024-04-06;Repairs;9868,00;Minor repair
+220;ADAMAS V;2024-07-29;Maintenance;5713,00;Minor repair
+224;PLANET NINE;2024-07-28;Repairs;1725,00;Minor repair
+225;ATHOS;2024-06-22;Other;11849,00;Minor repair
+226;ENERGY;2024-06-17;Other;6726,00;Annual check
+229;JAGUAR;2024-02-20;Maintenance;7769,00;Urgent
+231;UTOPIA IV;2024-07-02;Insurance;7556,00;Urgent
+232;ADAMAS V;2024-09-28;Docking Fees;9772,00;Urgent
+233;PROJECT MASTER;2024-03-30;Maintenance;10485,00;Minor repair
+234;ADAMAS V;2024-09-11;Other;2844,00;Urgent
+235;OLYMPUS;2024-11-22;Insurance;8029,00;Annual check
+236;O'PTASIA;2024-08-26;Insurance;11601,00;Major refit
+237;PROJECT MASTER;2024-02-07;Docking Fees;6161,00;Major refit
+238;UTOPIA IV;2024-11-23;Docking Fees;11810,00;Annual check
+239;OLYMPUS;2024-06-03;Repairs;6802,00;Minor repair
+240;PLVS VLTRA;2024-05-01;Docking Fees;9870,00;Annual check
+241;UTOPIA IV;2024-12-24;Insurance;859,00;Minor repair
+243;MARIE;2024-05-26;Repairs;10446,00;Annual check
+244;ADAMAS V;2024-11-21;Repairs;10672,00;Annual check
+246;UTOPIA IV;2024-08-13;Maintenance;9995,00;Annual check
+247;PLANET NINE;2024-02-16;Insurance;5852,00;Minor repair
+248;PROJECT MASTER;2024-04-12;Repairs;13386,00;Major refit
+249;PALOMA;2024-09-28;Other;4965,00;Urgent
+250;ATHOS;2024-09-03;Insurance;12731,00;Annual check
+251;PLVS VLTRA;2024-08-27;Maintenance;2806,00;Urgent
+252;CARPE DIEM;2024-10-12;Insurance;1979,00;Minor repair
+253;O'PTASIA;2024-05-15;Other;2524,00;Minor repair
+254;PALOMA;2024-12-10;Insurance;10077,00;Minor repair
+257;OLYMPUS;2024-12-24;Insurance;11137,00;Minor repair
+258;PLVS VLTRA;2024-03-12;Maintenance;1109,00;Annual check
+259;MARIE;2024-02-29;Maintenance;4346,00;Major refit
+260;PLANET NINE;2024-07-17;Docking Fees;6578,00;Major refit
+263;PALOMA;2024-04-21;Docking Fees;7785,00;Urgent
+264;PALOMA;2024-02-20;Insurance;9420,00;Annual check
+266;OLYMPUS;2024-02-16;Repairs;11013,00;Major refit
+267;O'PTASIA;2024-01-26;Insurance;4490,00;Urgent
+268;ICE;2024-02-05;Other;3894,00;Major refit
+269;ICE;2024-04-29;Insurance;13187,00;Urgent
+270;O'PTASIA;2024-05-21;Repairs;2629,00;Major refit
+272;PLANET NINE;2024-01-08;Insurance;13443,00;Urgent
+275;MARIE;2024-08-17;Insurance;8908,00;Major refit
+276;PLVS VLTRA;2024-08-19;Other;4129,00;Major refit
+277;SILVER EDGE;2024-12-03;Other;5441,00;Minor repair
+278;O'PTASIA;2024-02-01;Docking Fees;14382,00;Minor repair
+279;JAGUAR;2024-12-17;Maintenance;8532,00;Minor repair
+280;ENERGY;2024-02-11;Insurance;10466,00;Urgent
+281;ENERGY;2024-03-05;Insurance;10728,00;Major refit
+282;VIRTUS XP NB110 HULL 02;2024-12-30;Insurance;6740,00;Major refit
+283;HELIOS 3;2024-05-30;Docking Fees;8782,00;Major refit
+284;JAGUAR;2024-02-20;Maintenance;14472,00;Major refit
+285;ICE;2024-08-08;Docking Fees;4243,00;Minor repair
+287;QUEEN MAVIA;2024-08-06;Insurance;11397,00;Annual check
+289;ENERGY;2024-02-17;Docking Fees;2082,00;Annual check
+290;PLANET NINE;2024-10-11;Maintenance;10108,00;Major refit
+291;VIRTUS XP NB110 HULL 02;2024-06-17;Maintenance;7230,00;Annual check
+292;JAGUAR;2024-01-27;Insurance;10337,00;Annual check
+293;PALOMA;2024-02-23;Other;8813,00;Urgent
+295;PALOMA;2024-10-11;Insurance;2382,00;Annual check
+296;ADAMAS V;2024-08-07;Other;13073,00;Major refit
+297;VIRTUS XP NB110 HULL 02;2024-01-14;Other;11277,00;Annual check
+298;O'PTASIA;2024-04-02;Insurance;12013,00;Annual check
+299;QUEEN MAVIA;2024-06-28;Maintenance;3472,00;Urgent
+300;teszt;2025-05-28;Repairs;1000,00;teszt
