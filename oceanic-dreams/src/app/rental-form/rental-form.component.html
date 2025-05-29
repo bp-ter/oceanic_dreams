@@ -1,0 +1,12 @@
+<form [formGroup]="rentalForm" (ngSubmit)="submitRental()">
+  <label>Felhasználó ID</label>
+  <input formControlName="userId" readonly />
+
+  <label>Kezdő dátum</label>
+  <input type="date" formControlName="startDate" />
+
+  <label>Befejező dátum</label>
+  <input type="date" formControlName="endDate" />
+
+  <button type="submit" [disabled]="!rentalForm.valid">Bérel</button>
+</form>

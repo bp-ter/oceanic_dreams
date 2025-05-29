@@ -1,0 +1,20 @@
+<div class="yacht-list">
+  <div *ngFor="let yacht of filteredYachts" class="yacht-card">
+    <img [src]="yacht.image" alt="{{ yacht.name }}" class="yacht-image" />
+    <h3>{{ yacht.name }}</h3>
+    <p><strong>Gyártó:</strong> {{ yacht.builder }}</p>
+    <p><strong>Hossz:</strong> {{ yacht.length }} m</p>
+    <p><strong>Vendégek:</strong> {{ yacht.guests }}</p>
+    <p><strong>Kabinok:</strong> {{ yacht.cabins }}</p>
+    <p><strong>Legénység:</strong> {{ yacht.crew }}</p>
+    <p><strong>Napi ár:</strong> {{ yacht.daily_price }} €/nap</p>
+
+    <button class="rent-button" (click)="toggleRentalForm(yacht.id)">Bérlés</button>
+
+    <app-rental-form
+    *ngIf="selectedYachtId === yacht.id"
+    [yachtId]="selectedYachtId!.toString()"
+    (rentalResult)="handleRentalResult($event)">
+    </app-rental-form>
+  </div>
+</div>
