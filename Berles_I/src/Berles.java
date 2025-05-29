@@ -1,3 +1,13 @@
+/*
+* File: Berles.java
+* Author: Berta Péter
+* Copyright: 2025, Berta Péter
+* Group: Szoft II-2-N
+* Date: 2025-05-29
+* Github: https://github.com/bp-ter/
+* Licenc: MIT
+*/
+
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 
